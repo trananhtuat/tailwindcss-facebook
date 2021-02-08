@@ -6,4 +6,4 @@ Make Facebook Home Page with Responsive and Dark Mode using TailwindCSS
 
 https://youtu.be/FzJkNtixGuQ
 
-!["TailwindCSS Facebook Responsive UI"](https://raw.githubusercontent.com/trananhtuat/tailwindcss-facebook/main/banner-2.png?token=AQCSYIBSE2HA2NBJZRQMBWTAEARFY "TailwindCSS Facebook Responsive UI")
+!["TailwindCSS Facebook Responsive UI"](https://user-images.githubusercontent.com/67447840/107171905-81791700-69f6-11eb-8024-5ff5fc74a12e.png "TailwindCSS Facebook Responsive UI")
